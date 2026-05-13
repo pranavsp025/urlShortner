@@ -1,0 +1,53 @@
+body {
+
+  font-family: Arial;
+  background: #f4f4f4;
+}
+
+.container {
+
+  width: 600px;
+  margin: 50px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input {
+
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.url-item {
+
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.edit {
+  margin-top: 10px;
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.edit .save-btn {
+  margin-left: 8px;
+}
+
+.save-status {
+  margin-left: 10px;
+  color: #333;
+  font-size: 0.9em;
+}
